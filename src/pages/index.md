@@ -6,8 +6,7 @@ sections:
   title: Online Art Gallery - Shveta Saxena
   section_id: hero
   component: HeroBlock
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
+  content: "#### Buy contemporary artwork at affordable price from the collection"
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
